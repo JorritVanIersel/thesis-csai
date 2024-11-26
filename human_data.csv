@@ -1,0 +1,1728 @@
+Measures,Text 1
+Language,en
+Letter count (Doc),1855.00
+Letter count (Sent Avg),43.14
+Letter count (Sent SD),19.08
+Letter count (Sent Max),90.00
+Letter count (Sent Min),12.00
+Word count (Doc),496.00
+Word count (Sent Avg),11.53
+Word count (Sent SD),5.31
+Word count (Sent Max),24.00
+Word count (Sent Min),3.00
+Type count (Doc),192.00
+Type count (Sent Avg),10.70
+Type count (Sent SD),4.73
+Type count (Sent Max),21.00
+Type count (Sent Min),3.00
+Sentence count (Doc),43.00
+Paragraph count (Doc),5.00
+Hapax legomena count (Doc),108.00
+Hapax legomena count (Sent Avg),9.93
+Hapax legomena count (Sent SD),4.34
+Hapax legomena count (Sent Max),19.00
+Hapax legomena count (Sent Min),3.00
+Hapax legomena incidence (Doc),217.74
+Hapax legomena incidence (Sent Avg),882.34
+Hapax legomena incidence (Sent SD),139.74
+Hapax legomena incidence (Sent Max),1000.00
+Hapax legomena incidence (Sent Min),400.00
+Adjective count (Doc),25.00
+Adjective count (Sent Avg),0.58
+Adjective count (Sent SD),0.88
+Adjective count (Sent Max),3.00
+Adjective count (Sent Min),0.00
+Adverb count (Doc),25.00
+Adverb count (Sent Avg),0.58
+Adverb count (Sent SD),0.79
+Adverb count (Sent Max),3.00
+Adverb count (Sent Min),0.00
+Interjection count (Doc),2.00
+Interjection count (Sent Avg),0.047
+Interjection count (Sent SD),0.21
+Interjection count (Sent Max),1.00
+Interjection count (Sent Min),0.00
+Lexical verb count (Doc),85.00
+Lexical verb count (Sent Avg),1.98
+Lexical verb count (Sent SD),1.10
+Lexical verb count (Sent Max),4.00
+Lexical verb count (Sent Min),0.00
+Noun count (Doc),81.00
+Noun count (Sent Avg),1.88
+Noun count (Sent SD),1.37
+Noun count (Sent Max),5.00
+Noun count (Sent Min),0.00
+Proper noun count (Doc),7.00
+Proper noun count (Sent Avg),0.16
+Proper noun count (Sent SD),0.48
+Proper noun count (Sent Max),2.00
+Proper noun count (Sent Min),0.00
+Lexical item count (Doc),225.00
+Lexical item count (Sent Avg),5.23
+Lexical item count (Sent SD),2.56
+Lexical item count (Sent Max),12.00
+Lexical item count (Sent Min),1.00
+Adposition count (Doc),52.00
+Adposition count (Sent Avg),1.21
+Adposition count (Sent SD),1.08
+Adposition count (Sent Max),4.00
+Adposition count (Sent Min),0.00
+Auxiliary count (Doc),28.00
+Auxiliary count (Sent Avg),0.65
+Auxiliary count (Sent SD),0.65
+Auxiliary count (Sent Max),2.00
+Auxiliary count (Sent Min),0.00
+Conjunction count (Doc),37.00
+Conjunction count (Sent Avg),0.86
+Conjunction count (Sent SD),0.94
+Conjunction count (Sent Max),4.00
+Conjunction count (Sent Min),0.00
+Determiner count (Doc),43.00
+Determiner count (Sent Avg),1.00
+Determiner count (Sent SD),0.98
+Determiner count (Sent Max),4.00
+Determiner count (Sent Min),0.00
+Numeral count (Doc),3.00
+Numeral count (Sent Avg),0.070
+Numeral count (Sent SD),0.26
+Numeral count (Sent Max),1.00
+Numeral count (Sent Min),0.00
+Particle count (Doc),17.00
+Particle count (Sent Avg),0.40
+Particle count (Sent SD),0.58
+Particle count (Sent Max),2.00
+Particle count (Sent Min),0.00
+Pronoun count (Doc),91.00
+Pronoun count (Sent Avg),2.12
+Pronoun count (Sent SD),1.28
+Pronoun count (Sent Max),5.00
+Pronoun count (Sent Min),0.00
+Grammatical item count (Doc),271.00
+Grammatical item count (Sent Avg),6.30
+Grammatical item count (Sent SD),3.07
+Grammatical item count (Sent Max),12.00
+Grammatical item count (Sent Min),2.00
+Verb count (Doc),113.00
+Verb count (Sent Avg),2.63
+Verb count (Sent SD),1.22
+Verb count (Sent Max),5.00
+Verb count (Sent Min),1.00
+Punctuation count (Doc),53.00
+Punctuation count (Sent Avg),1.23
+Punctuation count (Sent SD),0.48
+Punctuation count (Sent Max),3.00
+Punctuation count (Sent Min),1.00
+Personal pronoun count (Doc),82.00
+Personal pronoun count (Sent Avg),1.91
+Personal pronoun count (Sent SD),1.23
+Personal pronoun count (Sent Max),5.00
+Personal pronoun count (Sent Min),0.00
+First person pronoun count (Doc),47.00
+First person pronoun count (Sent Avg),1.09
+First person pronoun count (Sent SD),1.09
+First person pronoun count (Sent Max),4.00
+First person pronoun count (Sent Min),0.00
+Second person pronoun count (Doc),0.00
+Second person pronoun count (Sent Avg),0.0
+Second person pronoun count (Sent SD),0.0
+Second person pronoun count (Sent Max),0.00
+Second person pronoun count (Sent Min),0.00
+Third person pronoun count (Doc),35.00
+Third person pronoun count (Sent Avg),0.81
+Third person pronoun count (Sent SD),0.79
+Third person pronoun count (Sent Max),2.00
+Third person pronoun count (Sent Min),0.00
+Interrogative count (Doc),7.00
+Interrogative count (Sent Avg),0.16
+Interrogative count (Sent SD),0.37
+Interrogative count (Sent Max),1.00
+Interrogative count (Sent Min),0.00
+Demonstrative count (Doc),7.00
+Demonstrative count (Sent Avg),0.16
+Demonstrative count (Sent SD),0.43
+Demonstrative count (Sent Max),2.00
+Demonstrative count (Sent Min),0.00
+Singular word count (Doc),172.00
+Singular word count (Sent Avg),4.00
+Singular word count (Sent SD),2.53
+Singular word count (Sent Max),10.00
+Singular word count (Sent Min),0.00
+Plural word count (Doc),69.00
+Plural word count (Sent Avg),1.60
+Plural word count (Sent SD),1.20
+Plural word count (Sent Max),4.00
+Plural word count (Sent Min),0.00
+Indefinite word count (Doc),21.00
+Indefinite word count (Sent Avg),0.49
+Indefinite word count (Sent SD),0.77
+Indefinite word count (Sent Max),3.00
+Indefinite word count (Sent Min),0.00
+Definite word count (Doc),16.00
+Definite word count (Sent Avg),0.37
+Definite word count (Sent SD),0.62
+Definite word count (Sent Max),2.00
+Definite word count (Sent Min),0.00
+Finite verb count (Doc),78.00
+Finite verb count (Sent Avg),1.81
+Finite verb count (Sent SD),0.76
+Finite verb count (Sent Max),4.00
+Finite verb count (Sent Min),1.00
+Infinitive verb count (Doc),26.00
+Infinitive verb count (Sent Avg),0.60
+Infinitive verb count (Sent SD),0.76
+Infinitive verb count (Sent Max),3.00
+Infinitive verb count (Sent Min),0.00
+Verbal adjective count (Doc),7.00
+Verbal adjective count (Sent Avg),0.16
+Verbal adjective count (Sent SD),0.37
+Verbal adjective count (Sent Max),1.00
+Verbal adjective count (Sent Min),0.00
+Past tense count (Doc),67.00
+Past tense count (Sent Avg),1.56
+Past tense count (Sent SD),0.88
+Past tense count (Sent Max),4.00
+Past tense count (Sent Min),0.00
+Present tense count (Doc),5.00
+Present tense count (Sent Avg),0.12
+Present tense count (Sent SD),0.32
+Present tense count (Sent Max),1.00
+Present tense count (Sent Min),0.00
+Passive voice count (Doc),1.00
+Passive voice count (Sent Avg),0.023
+Passive voice count (Sent SD),0.15
+Passive voice count (Sent Max),1.00
+Passive voice count (Sent Min),0.00
+Adjective incidence (Doc),50.40
+Adjective incidence (Sent Avg),47.11
+Adjective incidence (Sent SD),72.99
+Adjective incidence (Sent Max),333.33
+Adjective incidence (Sent Min),0.00
+Adverb incidence (Doc),50.40
+Adverb incidence (Sent Avg),50.28
+Adverb incidence (Sent SD),75.95
+Adverb incidence (Sent Max),375.00
+Adverb incidence (Sent Min),0.00
+Interjection incidence (Doc),4.03
+Interjection incidence (Sent Avg),2.66
+Interjection incidence (Sent SD),12.19
+Interjection incidence (Sent Max),58.82
+Interjection incidence (Sent Min),0.00
+Lexical verb incidence (Doc),171.37
+Lexical verb incidence (Sent Avg),171.36
+Lexical verb incidence (Sent SD),87.57
+Lexical verb incidence (Sent Max),400.00
+Lexical verb incidence (Sent Min),0.00
+Noun incidence (Doc),163.31
+Noun incidence (Sent Avg),163.49
+Noun incidence (Sent SD),115.95
+Noun incidence (Sent Max),500.00
+Noun incidence (Sent Min),0.00
+Proper noun incidence (Doc),14.11
+Proper noun incidence (Sent Avg),22.76
+Proper noun incidence (Sent SD),69.91
+Proper noun incidence (Sent Max),333.33
+Proper noun incidence (Sent Min),0.00
+Lexical item incidence (Doc),453.63
+Lexical item incidence (Sent Avg),457.66
+Lexical item incidence (Sent SD),99.93
+Lexical item incidence (Sent Max),700.00
+Lexical item incidence (Sent Min),333.33
+Adposition incidence (Doc),104.84
+Adposition incidence (Sent Avg),92.74
+Adposition incidence (Sent SD),77.63
+Adposition incidence (Sent Max),272.73
+Adposition incidence (Sent Min),0.00
+Auxiliary incidence (Doc),56.45
+Auxiliary incidence (Sent Avg),69.35
+Auxiliary incidence (Sent SD),86.79
+Auxiliary incidence (Sent Max),333.33
+Auxiliary incidence (Sent Min),0.00
+Conjunction incidence (Doc),74.60
+Conjunction incidence (Sent Avg),66.97
+Conjunction incidence (Sent SD),65.70
+Conjunction incidence (Sent Max),235.29
+Conjunction incidence (Sent Min),0.00
+Determiner incidence (Doc),86.69
+Determiner incidence (Sent Avg),81.20
+Determiner incidence (Sent SD),70.97
+Determiner incidence (Sent Max),200.00
+Determiner incidence (Sent Min),0.00
+Numeral incidence (Doc),6.05
+Numeral incidence (Sent Avg),5.21
+Numeral incidence (Sent SD),19.51
+Numeral incidence (Sent Max),90.91
+Numeral incidence (Sent Min),0.00
+Particle incidence (Doc),34.27
+Particle incidence (Sent Avg),30.62
+Particle incidence (Sent SD),43.93
+Particle incidence (Sent Max),111.11
+Particle incidence (Sent Min),0.00
+Pronoun incidence (Doc),183.47
+Pronoun incidence (Sent Avg),196.24
+Pronoun incidence (Sent SD),107.35
+Pronoun incidence (Sent Max),500.00
+Pronoun incidence (Sent Min),0.00
+Grammatical item incidence (Doc),546.37
+Grammatical item incidence (Sent Avg),542.34
+Grammatical item incidence (Sent SD),99.93
+Grammatical item incidence (Sent Max),666.67
+Grammatical item incidence (Sent Min),300.00
+Verb incidence (Doc),227.82
+Verb incidence (Sent Avg),240.71
+Verb incidence (Sent SD),88.39
+Verb incidence (Sent Max),444.44
+Verb incidence (Sent Min),111.11
+Punctuation incidence (Doc),96.54
+Punctuation incidence (Sent Avg),111.37
+Punctuation incidence (Sent SD),51.37
+Punctuation incidence (Sent Max),250.00
+Punctuation incidence (Sent Min),41.67
+Personal pronoun incidence (Doc),165.32
+Personal pronoun incidence (Sent Avg),178.01
+Personal pronoun incidence (Sent SD),106.15
+Personal pronoun incidence (Sent Max),500.00
+Personal pronoun incidence (Sent Min),0.00
+First person pronoun incidence (Doc),94.76
+First person pronoun incidence (Sent Avg),90.43
+First person pronoun incidence (Sent SD),79.20
+First person pronoun incidence (Sent Max),272.73
+First person pronoun incidence (Sent Min),0.00
+Second person pronoun incidence (Doc),0.00
+Second person pronoun incidence (Sent Avg),0.0
+Second person pronoun incidence (Sent SD),0.0
+Second person pronoun incidence (Sent Max),0.00
+Second person pronoun incidence (Sent Min),0.00
+Third person pronoun incidence (Doc),70.56
+Third person pronoun incidence (Sent Avg),87.58
+Third person pronoun incidence (Sent SD),96.75
+Third person pronoun incidence (Sent Max),333.33
+Third person pronoun incidence (Sent Min),0.00
+Interrogative incidence (Doc),14.11
+Interrogative incidence (Sent Avg),11.49
+Interrogative incidence (Sent SD),27.73
+Interrogative incidence (Sent Max),111.11
+Interrogative incidence (Sent Min),0.00
+Demonstrative incidence (Doc),14.11
+Demonstrative incidence (Sent Avg),13.79
+Demonstrative incidence (Sent SD),35.52
+Demonstrative incidence (Sent Max),125.00
+Demonstrative incidence (Sent Min),0.00
+Singular word incidence (Doc),346.77
+Singular word incidence (Sent Avg),346.18
+Singular word incidence (Sent SD),167.62
+Singular word incidence (Sent Max),700.00
+Singular word incidence (Sent Min),0.00
+Plural word incidence (Doc),139.11
+Plural word incidence (Sent Avg),178.84
+Plural word incidence (Sent SD),193.42
+Plural word incidence (Sent Max),1000.00
+Plural word incidence (Sent Min),0.00
+Indefinite word incidence (Doc),42.34
+Indefinite word incidence (Sent Avg),41.21
+Indefinite word incidence (Sent SD),63.85
+Indefinite word incidence (Sent Max),200.00
+Indefinite word incidence (Sent Min),0.00
+Definite word incidence (Doc),32.26
+Definite word incidence (Sent Avg),29.66
+Definite word incidence (Sent SD),51.78
+Definite word incidence (Sent Max),200.00
+Definite word incidence (Sent Min),0.00
+Finite verb incidence (Doc),157.26
+Finite verb incidence (Sent Avg),176.11
+Finite verb incidence (Sent SD),74.54
+Finite verb incidence (Sent Max),400.00
+Finite verb incidence (Sent Min),66.67
+Infinitive verb incidence (Doc),52.42
+Infinitive verb incidence (Sent Avg),49.05
+Infinitive verb incidence (Sent SD),66.05
+Infinitive verb incidence (Sent Max),222.22
+Infinitive verb incidence (Sent Min),0.00
+Verbal adjective incidence (Doc),14.11
+Verbal adjective incidence (Sent Avg),11.52
+Verbal adjective incidence (Sent SD),28.33
+Verbal adjective incidence (Sent Max),111.11
+Verbal adjective incidence (Sent Min),0.00
+Past tense incidence (Doc),135.08
+Past tense incidence (Sent Avg),151.97
+Past tense incidence (Sent SD),87.25
+Past tense incidence (Sent Max),400.00
+Past tense incidence (Sent Min),0.00
+Present tense incidence (Doc),10.08
+Present tense incidence (Sent Avg),8.72
+Present tense incidence (Sent SD),25.98
+Present tense incidence (Sent Max),111.11
+Present tense incidence (Sent Min),0.00
+Passive voice incidence (Doc),2.02
+Passive voice incidence (Sent Avg),1.79
+Passive voice incidence (Sent SD),11.73
+Passive voice incidence (Sent Max),76.92
+Passive voice incidence (Sent Min),0.00
+Adjective type count (Doc),21.00
+Adjective type count (Sent Avg),0.58
+Adjective type count (Sent SD),0.88
+Adjective type count (Sent Max),3.00
+Adjective type count (Sent Min),0.00
+Adverb type count (Doc),15.00
+Adverb type count (Sent Avg),0.56
+Adverb type count (Sent SD),0.73
+Adverb type count (Sent Max),3.00
+Adverb type count (Sent Min),0.00
+Interjection type count (Doc),1.00
+Interjection type count (Sent Avg),0.047
+Interjection type count (Sent SD),0.21
+Interjection type count (Sent Max),1.00
+Interjection type count (Sent Min),0.00
+Lexical verb type count (Doc),60.00
+Lexical verb type count (Sent Avg),1.95
+Lexical verb type count (Sent SD),1.11
+Lexical verb type count (Sent Max),4.00
+Lexical verb type count (Sent Min),0.00
+Noun type count (Doc),44.00
+Noun type count (Sent Avg),1.81
+Noun type count (Sent SD),1.30
+Noun type count (Sent Max),5.00
+Noun type count (Sent Min),0.00
+Proper noun type count (Doc),3.00
+Proper noun type count (Sent Avg),0.16
+Proper noun type count (Sent SD),0.48
+Proper noun type count (Sent Max),2.00
+Proper noun type count (Sent Min),0.00
+Lexical item type count (Doc),144.00
+Lexical item type count (Sent Avg),5.12
+Lexical item type count (Sent SD),2.47
+Lexical item type count (Sent Max),11.00
+Lexical item type count (Sent Min),1.00
+Adposition type count (Doc),17.00
+Adposition type count (Sent Avg),1.19
+Adposition type count (Sent SD),1.03
+Adposition type count (Sent Max),3.00
+Adposition type count (Sent Min),0.00
+Auxiliary type count (Doc),5.00
+Auxiliary type count (Sent Avg),0.58
+Auxiliary type count (Sent SD),0.54
+Auxiliary type count (Sent Max),2.00
+Auxiliary type count (Sent Min),0.00
+Conjunction type count (Doc),9.00
+Conjunction type count (Sent Avg),0.79
+Conjunction type count (Sent SD),0.77
+Conjunction type count (Sent Max),3.00
+Conjunction type count (Sent Min),0.00
+Determiner type count (Doc),7.00
+Determiner type count (Sent Avg),0.79
+Determiner type count (Sent SD),0.67
+Determiner type count (Sent Max),2.00
+Determiner type count (Sent Min),0.00
+Numeral type count (Doc),2.00
+Numeral type count (Sent Avg),0.070
+Numeral type count (Sent SD),0.26
+Numeral type count (Sent Max),1.00
+Numeral type count (Sent Min),0.00
+Particle type count (Doc),3.00
+Particle type count (Sent Avg),0.37
+Particle type count (Sent SD),0.54
+Particle type count (Sent Max),2.00
+Particle type count (Sent Min),0.00
+Pronoun type count (Doc),14.00
+Pronoun type count (Sent Avg),1.86
+Pronoun type count (Sent SD),1.10
+Pronoun type count (Sent Max),4.00
+Pronoun type count (Sent Min),0.00
+Grammatical item type count (Doc),54.00
+Grammatical item type count (Sent Avg),5.60
+Grammatical item type count (Sent SD),2.55
+Grammatical item type count (Sent Max),10.00
+Grammatical item type count (Sent Min),2.00
+Verb type count (Doc),63.00
+Verb type count (Sent Avg),2.53
+Verb type count (Sent SD),1.20
+Verb type count (Sent Max),5.00
+Verb type count (Sent Min),1.00
+Word length (Doc),3.74
+Word length (Sent Avg),3.81
+Word length (Sent SD),0.53
+Word length (Sent Max),4.91
+Word length (Sent Min),2.80
+Sentence length (Doc),11.53
+Sentence length (Sent Avg),11.53
+Sentence length (Sent SD),5.31
+Sentence length (Sent Max),24.00
+Sentence length (Sent Min),3.00
+Paragraph length (Doc),8.60
+Type-token ratio (Doc),0.39
+Type-token ratio (Sent Avg),0.94
+Type-token ratio (Sent SD),0.072
+Type-token ratio (Sent Max),1.00
+Type-token ratio (Sent Min),0.70
+Moving average type-token ratio (Doc),0.63
+Honoré's statistic (Doc),616.11
+Letter entropy (Doc),4.19
+Letter entropy (Sent Avg),3.72
+Letter entropy (Sent SD),0.27
+Letter entropy (Sent Max),4.18
+Letter entropy (Sent Min),3.02
+Word entropy (Doc),6.81
+Word entropy (Sent Avg),3.23
+Word entropy (Sent SD),0.70
+Word entropy (Sent Max),4.35
+Word entropy (Sent Min),1.58
+Zipf steepness of curve (Doc),0.74
+Zipf goodness of fit (Doc),0.92
+Zipf frequency (Doc),6.02
+Zipf frequency (Sent Avg),5.99
+Zipf frequency (Sent SD),0.34
+Zipf frequency (Sent Max),6.54
+Zipf frequency (Sent Min),4.69
+Average contextual diversity (Doc),15.35
+Average contextual diversity (Sent Avg),14.79
+Average contextual diversity (Sent SD),4.57
+Average contextual diversity (Sent Max),24.75
+Average contextual diversity (Sent Min),4.43
+Frequent word count (Doc),282.00
+Frequent word count (Sent Avg),6.56
+Frequent word count (Sent SD),3.03
+Frequent word count (Sent Max),15.00
+Frequent word count (Sent Min),2.00
+Infrequent word count (Doc),26.00
+Infrequent word count (Sent Avg),0.60
+Infrequent word count (Sent SD),0.66
+Infrequent word count (Sent Max),2.00
+Infrequent word count (Sent Min),0.00
+Unknown word count (Doc),5.00
+Unknown word count (Sent Avg),0.12
+Unknown word count (Sent SD),0.32
+Unknown word count (Sent Max),1.00
+Unknown word count (Sent Min),0.00
+Frequent word incidence (Doc),568.55
+Frequent word incidence (Sent Avg),576.86
+Frequent word incidence (Sent SD),116.53
+Frequent word incidence (Sent Max),1000.00
+Frequent word incidence (Sent Min),333.33
+Infrequent word incidence (Doc),52.42
+Infrequent word incidence (Sent Avg),53.34
+Infrequent word incidence (Sent SD),68.53
+Infrequent word incidence (Sent Max),333.33
+Infrequent word incidence (Sent Min),0.00
+Unknown word incidence (Doc),10.08
+Unknown word incidence (Sent Avg),10.85
+Unknown word incidence (Sent SD),30.89
+Unknown word incidence (Sent Max),111.11
+Unknown word incidence (Sent Min),0.00
+Word-lemma Levenshtein dist. (Doc),0.45
+Word-lemma Levenshtein dist. (Sent Avg),0.51
+Word-lemma Levenshtein dist. (Sent SD),0.31
+Word-lemma Levenshtein dist. (Sent Max),1.33
+Word-lemma Levenshtein dist. (Sent Min),0.00
+Word types per lemma (Doc),1.12
+Word types per lemma (Sent Avg),1.02
+Word types per lemma (Sent SD),0.044
+Word types per lemma (Sent Max),1.20
+Word types per lemma (Sent Min),1.00
+Word types per lemma (nouns) (Doc),1.07
+Word types per lemma (nouns) (Sent Avg),0.84
+Word types per lemma (nouns) (Sent SD),0.37
+Word types per lemma (nouns) (Sent Max),1.00
+Word types per lemma (nouns) (Sent Min),0.00
+Word types per lemma (verbs) (Doc),1.27
+Word types per lemma (verbs) (Sent Avg),1.04
+Word types per lemma (verbs) (Sent SD),0.17
+Word types per lemma (verbs) (Sent Max),2.00
+Word types per lemma (verbs) (Sent Min),1.00
+Word types per lemma (lexical items) (Doc),1.12
+Word types per lemma (lexical items) (Sent Avg),1.01
+Word types per lemma (lexical items) (Sent SD),0.053
+Word types per lemma (lexical items) (Sent Max),1.25
+Word types per lemma (lexical items) (Sent Min),1.00
+Word types per lemma (grammatical items) (Doc),1.10
+Word types per lemma (grammatical items) (Sent Avg),1.03
+Word types per lemma (grammatical items) (Sent SD),0.069
+Word types per lemma (grammatical items) (Sent Max),1.33
+Word types per lemma (grammatical items) (Sent Min),1.00
+Adjective length (Doc),5.20
+Adjective length (Sent Avg),2.05
+Adjective length (Sent SD),2.67
+Adjective length (Sent Max),7.00
+Adjective length (Sent Min),0.00
+Adverb length (Doc),4.40
+Adverb length (Sent Avg),1.93
+Adverb length (Sent SD),2.30
+Adverb length (Sent Max),7.00
+Adverb length (Sent Min),0.00
+Interjection length (Doc),4.00
+Interjection length (Sent Avg),0.19
+Interjection length (Sent SD),0.85
+Interjection length (Sent Max),4.00
+Interjection length (Sent Min),0.00
+Lexical verb length (Doc),5.07
+Lexical verb length (Sent Avg),4.60
+Lexical verb length (Sent SD),1.90
+Lexical verb length (Sent Max),8.33
+Lexical verb length (Sent Min),0.00
+Noun length (Doc),4.74
+Noun length (Sent Avg),3.93
+Noun length (Sent SD),1.99
+Noun length (Sent Max),7.00
+Noun length (Sent Min),0.00
+Proper noun length (Doc),5.86
+Proper noun length (Sent Avg),0.72
+Proper noun length (Sent SD),2.07
+Proper noun length (Sent Max),8.00
+Proper noun length (Sent Min),0.00
+Lexical item length (Doc),4.91
+Lexical item length (Sent Avg),5.00
+Lexical item length (Sent SD),0.87
+Lexical item length (Sent Max),8.00
+Lexical item length (Sent Min),3.67
+Adposition length (Doc),2.85
+Adposition length (Sent Avg),1.88
+Adposition length (Sent SD),1.46
+Adposition length (Sent Max),4.00
+Adposition length (Sent Min),0.00
+Auxiliary length (Doc),4.07
+Auxiliary length (Sent Avg),2.27
+Auxiliary length (Sent SD),2.16
+Auxiliary length (Sent Max),5.00
+Auxiliary length (Sent Min),0.00
+Conjunction length (Doc),3.38
+Conjunction length (Sent Avg),2.06
+Conjunction length (Sent SD),1.80
+Conjunction length (Sent Max),5.00
+Conjunction length (Sent Min),0.00
+Determiner length (Doc),2.14
+Determiner length (Sent Avg),1.42
+Determiner length (Sent SD),1.40
+Determiner length (Sent Max),5.00
+Determiner length (Sent Min),0.00
+Numeral length (Doc),3.00
+Numeral length (Sent Avg),0.21
+Numeral length (Sent SD),0.77
+Numeral length (Sent Max),3.00
+Numeral length (Sent Min),0.00
+Particle length (Doc),2.24
+Particle length (Sent Avg),0.78
+Particle length (Sent SD),1.10
+Particle length (Sent Max),3.00
+Particle length (Sent Min),0.00
+Pronoun length (Doc),2.47
+Pronoun length (Sent Avg),2.32
+Pronoun length (Sent SD),1.22
+Pronoun length (Sent Max),5.00
+Pronoun length (Sent Min),0.00
+Grammatical item length (Doc),2.77
+Grammatical item length (Sent Avg),2.79
+Grammatical item length (Sent SD),0.58
+Grammatical item length (Sent Max),4.25
+Grammatical item length (Sent Min),1.50
+Verb length (Doc),4.82
+Verb length (Sent Avg),4.71
+Verb length (Sent SD),1.03
+Verb length (Sent Max),7.50
+Verb length (Sent Min),3.00
+Adjective type-token ratio (Doc),0.84
+Adjective type-token ratio (Sent Avg),0.40
+Adjective type-token ratio (Sent SD),0.49
+Adjective type-token ratio (Sent Max),1.00
+Adjective type-token ratio (Sent Min),0.00
+Adverb type-token ratio (Doc),0.60
+Adverb type-token ratio (Sent Avg),0.43
+Adverb type-token ratio (Sent SD),0.50
+Adverb type-token ratio (Sent Max),1.00
+Adverb type-token ratio (Sent Min),0.00
+Interjection type-token ratio (Doc),0.50
+Interjection type-token ratio (Sent Avg),0.047
+Interjection type-token ratio (Sent SD),0.21
+Interjection type-token ratio (Sent Max),1.00
+Interjection type-token ratio (Sent Min),0.00
+Lexical verb type-token ratio (Doc),0.71
+Lexical verb type-token ratio (Sent Avg),0.90
+Lexical verb type-token ratio (Sent SD),0.30
+Lexical verb type-token ratio (Sent Max),1.00
+Lexical verb type-token ratio (Sent Min),0.00
+Noun type-token ratio (Doc),0.54
+Noun type-token ratio (Sent Avg),0.82
+Noun type-token ratio (Sent SD),0.37
+Noun type-token ratio (Sent Max),1.00
+Noun type-token ratio (Sent Min),0.00
+Proper noun type-token ratio (Doc),0.43
+Proper noun type-token ratio (Sent Avg),0.12
+Proper noun type-token ratio (Sent SD),0.32
+Proper noun type-token ratio (Sent Max),1.00
+Proper noun type-token ratio (Sent Min),0.00
+Lexical item type-token ratio (Doc),0.64
+Lexical item type-token ratio (Sent Avg),0.98
+Lexical item type-token ratio (Sent SD),0.056
+Lexical item type-token ratio (Sent Max),1.00
+Lexical item type-token ratio (Sent Min),0.71
+Adposition type-token ratio (Doc),0.33
+Adposition type-token ratio (Sent Avg),0.67
+Adposition type-token ratio (Sent SD),0.47
+Adposition type-token ratio (Sent Max),1.00
+Adposition type-token ratio (Sent Min),0.00
+Auxiliary type-token ratio (Doc),0.18
+Auxiliary type-token ratio (Sent Avg),0.52
+Auxiliary type-token ratio (Sent SD),0.49
+Auxiliary type-token ratio (Sent Max),1.00
+Auxiliary type-token ratio (Sent Min),0.00
+Conjunction type-token ratio (Doc),0.24
+Conjunction type-token ratio (Sent Avg),0.59
+Conjunction type-token ratio (Sent SD),0.49
+Conjunction type-token ratio (Sent Max),1.00
+Conjunction type-token ratio (Sent Min),0.00
+Determiner type-token ratio (Doc),0.16
+Determiner type-token ratio (Sent Avg),0.57
+Determiner type-token ratio (Sent SD),0.45
+Determiner type-token ratio (Sent Max),1.00
+Determiner type-token ratio (Sent Min),0.00
+Numeral type-token ratio (Doc),0.67
+Numeral type-token ratio (Sent Avg),0.070
+Numeral type-token ratio (Sent SD),0.26
+Numeral type-token ratio (Sent Max),1.00
+Numeral type-token ratio (Sent Min),0.00
+Particle type-token ratio (Doc),0.18
+Particle type-token ratio (Sent Avg),0.34
+Particle type-token ratio (Sent SD),0.47
+Particle type-token ratio (Sent Max),1.00
+Particle type-token ratio (Sent Min),0.00
+Pronoun type-token ratio (Doc),0.15
+Pronoun type-token ratio (Sent Avg),0.85
+Pronoun type-token ratio (Sent SD),0.29
+Pronoun type-token ratio (Sent Max),1.00
+Pronoun type-token ratio (Sent Min),0.00
+Grammatical item type-token ratio (Doc),0.20
+Grammatical item type-token ratio (Sent Avg),0.91
+Grammatical item type-token ratio (Sent SD),0.10
+Grammatical item type-token ratio (Sent Max),1.00
+Grammatical item type-token ratio (Sent Min),0.67
+Verb type-token ratio (Doc),0.56
+Verb type-token ratio (Sent Avg),0.97
+Verb type-token ratio (Sent SD),0.10
+Verb type-token ratio (Sent Max),1.00
+Verb type-token ratio (Sent Min),0.50
+Adverb-adjective ratio (Doc),1.00
+Adverb-adjective ratio (Sent Avg),0.13
+Adverb-adjective ratio (Sent SD),0.33
+Adverb-adjective ratio (Sent Max),1.00
+Adverb-adjective ratio (Sent Min),0.00
+Interjection-adjective ratio (Doc),0.080
+Interjection-adjective ratio (Sent Avg),0.023
+Interjection-adjective ratio (Sent SD),0.15
+Interjection-adjective ratio (Sent Max),1.00
+Interjection-adjective ratio (Sent Min),0.00
+Determiner-adjective ratio (Doc),1.72
+Determiner-adjective ratio (Sent Avg),0.45
+Determiner-adjective ratio (Sent SD),0.73
+Determiner-adjective ratio (Sent Max),3.00
+Determiner-adjective ratio (Sent Min),0.00
+Adjective-noun ratio (Doc),0.31
+Adjective-noun ratio (Sent Avg),0.24
+Adjective-noun ratio (Sent SD),0.37
+Adjective-noun ratio (Sent Max),1.00
+Adjective-noun ratio (Sent Min),0.00
+Interjection-noun ratio (Doc),0.025
+Interjection-noun ratio (Sent Avg),0.016
+Interjection-noun ratio (Sent SD),0.071
+Interjection-noun ratio (Sent Max),0.33
+Interjection-noun ratio (Sent Min),0.00
+Proper noun-noun ratio (Doc),0.086
+Proper noun-noun ratio (Sent Avg),0.11
+Proper noun-noun ratio (Sent SD),0.38
+Proper noun-noun ratio (Sent Max),2.00
+Proper noun-noun ratio (Sent Min),0.00
+Verb-noun ratio (Doc),1.40
+Verb-noun ratio (Sent Avg),1.32
+Verb-noun ratio (Sent SD),1.23
+Verb-noun ratio (Sent Max),4.00
+Verb-noun ratio (Sent Min),0.00
+Adposition-noun ratio (Doc),0.64
+Adposition-noun ratio (Sent Avg),0.48
+Adposition-noun ratio (Sent SD),0.46
+Adposition-noun ratio (Sent Max),1.50
+Adposition-noun ratio (Sent Min),0.00
+Conjunction-noun ratio (Doc),0.46
+Conjunction-noun ratio (Sent Avg),0.38
+Conjunction-noun ratio (Sent SD),0.46
+Conjunction-noun ratio (Sent Max),1.50
+Conjunction-noun ratio (Sent Min),0.00
+Determiner-noun ratio (Doc),0.53
+Determiner-noun ratio (Sent Avg),0.50
+Determiner-noun ratio (Sent SD),0.43
+Determiner-noun ratio (Sent Max),1.00
+Determiner-noun ratio (Sent Min),0.00
+Numeral-noun ratio (Doc),0.037
+Numeral-noun ratio (Sent Avg),0.025
+Numeral-noun ratio (Sent SD),0.097
+Numeral-noun ratio (Sent Max),0.50
+Numeral-noun ratio (Sent Min),0.00
+Pronoun-noun ratio (Doc),1.12
+Pronoun-noun ratio (Sent Avg),0.94
+Pronoun-noun ratio (Sent SD),0.90
+Pronoun-noun ratio (Sent Max),4.00
+Pronoun-noun ratio (Sent Min),0.00
+Adverb-verb ratio (Doc),0.22
+Adverb-verb ratio (Sent Avg),0.26
+Adverb-verb ratio (Sent SD),0.44
+Adverb-verb ratio (Sent Max),2.00
+Adverb-verb ratio (Sent Min),0.00
+Interjection-verb ratio (Doc),0.018
+Interjection-verb ratio (Sent Avg),0.012
+Interjection-verb ratio (Sent SD),0.059
+Interjection-verb ratio (Sent Max),0.33
+Interjection-verb ratio (Sent Min),0.00
+Adposition-verb ratio (Doc),0.46
+Adposition-verb ratio (Sent Avg),0.50
+Adposition-verb ratio (Sent SD),0.48
+Adposition-verb ratio (Sent Max),2.00
+Adposition-verb ratio (Sent Min),0.00
+Conjunction-verb ratio (Doc),0.33
+Conjunction-verb ratio (Sent Avg),0.29
+Conjunction-verb ratio (Sent SD),0.31
+Conjunction-verb ratio (Sent Max),1.33
+Conjunction-verb ratio (Sent Min),0.00
+Particle-verb ratio (Doc),0.15
+Particle-verb ratio (Sent Avg),0.13
+Particle-verb ratio (Sent SD),0.19
+Particle-verb ratio (Sent Max),0.67
+Particle-verb ratio (Sent Min),0.00
+Auxiliary-lexical verb ratio (Doc),0.33
+Auxiliary-lexical verb ratio (Sent Avg),0.31
+Auxiliary-lexical verb ratio (Sent SD),0.45
+Auxiliary-lexical verb ratio (Sent Max),2.00
+Auxiliary-lexical verb ratio (Sent Min),0.00
+Adjective-lexical item ratio (Doc),0.11
+Adjective-lexical item ratio (Sent Avg),0.11
+Adjective-lexical item ratio (Sent SD),0.18
+Adjective-lexical item ratio (Sent Max),1.00
+Adjective-lexical item ratio (Sent Min),0.00
+Adverb-lexical item ratio (Doc),0.11
+Adverb-lexical item ratio (Sent Avg),0.11
+Adverb-lexical item ratio (Sent SD),0.16
+Adverb-lexical item ratio (Sent Max),0.75
+Adverb-lexical item ratio (Sent Min),0.00
+Interjection-lexical item ratio (Doc),0.0089
+Interjection-lexical item ratio (Sent Avg),0.0052
+Interjection-lexical item ratio (Sent SD),0.024
+Interjection-lexical item ratio (Sent Max),0.11
+Interjection-lexical item ratio (Sent Min),0.00
+Lexical verb-lexical item ratio (Doc),0.38
+Lexical verb-lexical item ratio (Sent Avg),0.39
+Lexical verb-lexical item ratio (Sent SD),0.21
+Lexical verb-lexical item ratio (Sent Max),0.75
+Lexical verb-lexical item ratio (Sent Min),0.00
+Noun-lexical item ratio (Doc),0.36
+Noun-lexical item ratio (Sent Avg),0.35
+Noun-lexical item ratio (Sent SD),0.22
+Noun-lexical item ratio (Sent Max),1.00
+Noun-lexical item ratio (Sent Min),0.00
+Proper noun-lexical item ratio (Doc),0.031
+Proper noun-lexical item ratio (Sent Avg),0.043
+Proper noun-lexical item ratio (Sent SD),0.14
+Proper noun-lexical item ratio (Sent Max),0.67
+Proper noun-lexical item ratio (Sent Min),0.00
+Sub-coordinating conjunction ratio (Doc),0.61
+Sub-coordinating conjunction ratio (Sent Avg),0.15
+Sub-coordinating conjunction ratio (Sent SD),0.42
+Sub-coordinating conjunction ratio (Sent Max),2.00
+Sub-coordinating conjunction ratio (Sent Min),0.00
+Adposition-determiner ratio (Doc),1.21
+Adposition-determiner ratio (Sent Avg),0.63
+Adposition-determiner ratio (Sent SD),0.70
+Adposition-determiner ratio (Sent Max),2.00
+Adposition-determiner ratio (Sent Min),0.00
+Pronoun-determiner ratio (Doc),2.12
+Pronoun-determiner ratio (Sent Avg),1.06
+Pronoun-determiner ratio (Sent SD),1.27
+Pronoun-determiner ratio (Sent Max),5.00
+Pronoun-determiner ratio (Sent Min),0.00
+Proper noun-determiner ratio (Doc),0.16
+Proper noun-determiner ratio (Sent Avg),0.047
+Proper noun-determiner ratio (Sent SD),0.21
+Proper noun-determiner ratio (Sent Max),1.00
+Proper noun-determiner ratio (Sent Min),0.00
+Proper noun-pronoun ratio (Doc),0.077
+Proper noun-pronoun ratio (Sent Avg),0.13
+Proper noun-pronoun ratio (Sent SD),0.45
+Proper noun-pronoun ratio (Sent Max),2.00
+Proper noun-pronoun ratio (Sent Min),0.00
+Adposition-grammatical item ratio (Doc),0.19
+Adposition-grammatical item ratio (Sent Avg),0.17
+Adposition-grammatical item ratio (Sent SD),0.15
+Adposition-grammatical item ratio (Sent Max),0.50
+Adposition-grammatical item ratio (Sent Min),0.00
+Auxiliary-grammatical item ratio (Doc),0.10
+Auxiliary-grammatical item ratio (Sent Avg),0.12
+Auxiliary-grammatical item ratio (Sent SD),0.15
+Auxiliary-grammatical item ratio (Sent Max),0.50
+Auxiliary-grammatical item ratio (Sent Min),0.00
+Conjunction-grammatical item ratio (Doc),0.14
+Conjunction-grammatical item ratio (Sent Avg),0.13
+Conjunction-grammatical item ratio (Sent SD),0.13
+Conjunction-grammatical item ratio (Sent Max),0.50
+Conjunction-grammatical item ratio (Sent Min),0.00
+Determiner-grammatical item ratio (Doc),0.16
+Determiner-grammatical item ratio (Sent Avg),0.16
+Determiner-grammatical item ratio (Sent SD),0.15
+Determiner-grammatical item ratio (Sent Max),0.50
+Determiner-grammatical item ratio (Sent Min),0.00
+Numeral-grammatical item ratio (Doc),0.011
+Numeral-grammatical item ratio (Sent Avg),0.0091
+Numeral-grammatical item ratio (Sent SD),0.034
+Numeral-grammatical item ratio (Sent Max),0.14
+Numeral-grammatical item ratio (Sent Min),0.00
+Particle-grammatical item ratio (Doc),0.063
+Particle-grammatical item ratio (Sent Avg),0.057
+Particle-grammatical item ratio (Sent SD),0.087
+Particle-grammatical item ratio (Sent Max),0.33
+Particle-grammatical item ratio (Sent Min),0.00
+Pronoun-grammatical item ratio (Doc),0.34
+Pronoun-grammatical item ratio (Sent Avg),0.36
+Pronoun-grammatical item ratio (Sent SD),0.19
+Pronoun-grammatical item ratio (Sent Max),1.00
+Pronoun-grammatical item ratio (Sent Min),0.00
+Lexical-grammatical item ratio (Doc),0.83
+Lexical-grammatical item ratio (Sent Avg),0.92
+Lexical-grammatical item ratio (Sent SD),0.43
+Lexical-grammatical item ratio (Sent Max),2.33
+Lexical-grammatical item ratio (Sent Min),0.50
+First person-personal pronoun ratio (Doc),0.57
+First person-personal pronoun ratio (Sent Avg),0.52
+First person-personal pronoun ratio (Sent SD),0.42
+First person-personal pronoun ratio (Sent Max),1.00
+First person-personal pronoun ratio (Sent Min),0.00
+Second person-personal pronoun ratio (Doc),0.00
+Second person-personal pronoun ratio (Sent Avg),0.0
+Second person-personal pronoun ratio (Sent SD),0.0
+Second person-personal pronoun ratio (Sent Max),0.00
+Second person-personal pronoun ratio (Sent Min),0.00
+Third person-personal pronoun ratio (Doc),0.43
+Third person-personal pronoun ratio (Sent Avg),0.39
+Third person-personal pronoun ratio (Sent SD),0.40
+Third person-personal pronoun ratio (Sent Max),1.00
+Third person-personal pronoun ratio (Sent Min),0.00
+First-third person pronoun ratio (Doc),1.34
+First-third person pronoun ratio (Sent Avg),0.53
+First-third person pronoun ratio (Sent SD),1.00
+First-third person pronoun ratio (Sent Max),4.00
+First-third person pronoun ratio (Sent Min),0.00
+First-second person pronoun ratio (Doc),0.00
+First-second person pronoun ratio (Sent Avg),0.0
+First-second person pronoun ratio (Sent SD),0.0
+First-second person pronoun ratio (Sent Max),0.00
+First-second person pronoun ratio (Sent Min),0.00
+Second-third person pronoun ratio (Doc),0.00
+Second-third person pronoun ratio (Sent Avg),0.0
+Second-third person pronoun ratio (Sent SD),0.0
+Second-third person pronoun ratio (Sent Max),0.00
+Second-third person pronoun ratio (Sent Min),0.00
+Plural-singular word ratio (Doc),0.40
+Plural-singular word ratio (Sent Avg),0.64
+Plural-singular word ratio (Sent SD),0.87
+Plural-singular word ratio (Sent Max),4.00
+Plural-singular word ratio (Sent Min),0.00
+Definite-indefinite word ratio (Doc),0.76
+Definite-indefinite word ratio (Sent Avg),0.058
+Definite-indefinite word ratio (Sent SD),0.22
+Definite-indefinite word ratio (Sent Max),1.00
+Definite-indefinite word ratio (Sent Min),0.00
+Infinitive-finite verb ratio (Doc),0.33
+Infinitive-finite verb ratio (Sent Avg),0.36
+Infinitive-finite verb ratio (Sent SD),0.49
+Infinitive-finite verb ratio (Sent Max),2.00
+Infinitive-finite verb ratio (Sent Min),0.00
+Verbal adjective-finite verb ratio (Doc),0.090
+Verbal adjective-finite verb ratio (Sent Avg),0.089
+Verbal adjective-finite verb ratio (Sent SD),0.22
+Verbal adjective-finite verb ratio (Sent Max),1.00
+Verbal adjective-finite verb ratio (Sent Min),0.00
+Verbal adjective-infinitive verb ratio (Doc),0.27
+Verbal adjective-infinitive verb ratio (Sent Avg),0.070
+Verbal adjective-infinitive verb ratio (Sent SD),0.26
+Verbal adjective-infinitive verb ratio (Sent Max),1.00
+Verbal adjective-infinitive verb ratio (Sent Min),0.00
+Present-past tense ratio (Doc),0.075
+Present-past tense ratio (Sent Avg),0.070
+Present-past tense ratio (Sent SD),0.21
+Present-past tense ratio (Sent Max),1.00
+Present-past tense ratio (Sent Min),0.00
+Hapax legomena burstiness (Doc),-0.14
+Adjective burstiness (Doc),0.0050
+Adverb burstiness (Doc),-0.076
+Interjection burstiness (Doc),0.00
+Lexical verb burstiness (Doc),-0.26
+Noun burstiness (Doc),-0.055
+Proper noun burstiness (Doc),0.38
+Lexical item burstiness (Doc),-0.32
+Adposition burstiness (Doc),-0.057
+Auxiliary burstiness (Doc),-0.075
+Conjunction burstiness (Doc),-0.15
+Determiner burstiness (Doc),-0.12
+Numeral burstiness (Doc),0.51
+Particle burstiness (Doc),0.074
+Pronoun burstiness (Doc),-0.17
+Grammatical item burstiness (Doc),-0.34
+Verb burstiness (Doc),-0.22
+Personal pronoun burstiness (Doc),-0.15
+First person pronoun burstiness (Doc),-0.095
+Second person pronoun burstiness (Doc),0.00
+Third person pronoun burstiness (Doc),0.033
+Interrogative burstiness (Doc),-0.22
+Demonstrative burstiness (Doc),0.16
+Singular word burstiness (Doc),-0.094
+Plural word burstiness (Doc),0.18
+Indefinite word burstiness (Doc),0.13
+Definite word burstiness (Doc),0.076
+Finite verb burstiness (Doc),-0.32
+Infinitive verb burstiness (Doc),-0.083
+Verbal adjective burstiness (Doc),-0.090
+Past tense burstiness (Doc),-0.23
+Present tense burstiness (Doc),0.15
+Passive voice burstiness (Doc),0.00
+Frequent word burstiness (Doc),-0.33
+Infrequent word burstiness (Doc),-0.17
+Unknown word burstiness (Doc),0.18
+Hapax legomena concentration (Doc),0.074
+Hapax legomena concentration (Sent Avg),-0.014
+Hapax legomena concentration (Sent SD),0.11
+Hapax legomena concentration (Sent Max),0.17
+Hapax legomena concentration (Sent Min),-0.50
+Adjective concentration (Doc),0.20
+Adjective concentration (Sent Avg),0.12
+Adjective concentration (Sent SD),0.55
+Adjective concentration (Sent Max),1.00
+Adjective concentration (Sent Min),-1.00
+Adverb concentration (Doc),-0.040
+Adverb concentration (Sent Avg),-0.016
+Adverb concentration (Sent SD),0.62
+Adverb concentration (Sent Max),1.00
+Adverb concentration (Sent Min),-1.00
+Interjection concentration (Doc),0.0
+Interjection concentration (Sent Avg),-0.047
+Interjection concentration (Sent SD),0.21
+Interjection concentration (Sent Max),0.00
+Interjection concentration (Sent Min),-1.00
+Lexical verb concentration (Doc),0.012
+Lexical verb concentration (Sent Avg),-0.31
+Lexical verb concentration (Sent SD),0.56
+Lexical verb concentration (Sent Max),1.00
+Lexical verb concentration (Sent Min),-1.00
+Noun concentration (Doc),0.086
+Noun concentration (Sent Avg),0.21
+Noun concentration (Sent SD),0.62
+Noun concentration (Sent Max),1.00
+Noun concentration (Sent Min),-1.00
+Proper noun concentration (Doc),-1.00
+Proper noun concentration (Sent Avg),0.023
+Proper noun concentration (Sent SD),0.34
+Proper noun concentration (Sent Max),1.00
+Proper noun concentration (Sent Min),-1.00
+Lexical item concentration (Doc),0.022
+Lexical item concentration (Sent Avg),0.073
+Lexical item concentration (Sent SD),0.33
+Lexical item concentration (Sent Max),1.00
+Lexical item concentration (Sent Min),-0.50
+Adposition concentration (Doc),0.077
+Adposition concentration (Sent Avg),0.10
+Adposition concentration (Sent SD),0.68
+Adposition concentration (Sent Max),1.00
+Adposition concentration (Sent Min),-1.00
+Auxiliary concentration (Doc),-0.36
+Auxiliary concentration (Sent Avg),0.047
+Auxiliary concentration (Sent SD),0.65
+Auxiliary concentration (Sent Max),1.00
+Auxiliary concentration (Sent Min),-1.00
+Conjunction concentration (Doc),-0.027
+Conjunction concentration (Sent Avg),0.21
+Conjunction concentration (Sent SD),0.66
+Conjunction concentration (Sent Max),1.00
+Conjunction concentration (Sent Min),-1.00
+Determiner concentration (Doc),-0.12
+Determiner concentration (Sent Avg),-0.070
+Determiner concentration (Sent SD),0.60
+Determiner concentration (Sent Max),1.00
+Determiner concentration (Sent Min),-1.00
+Numeral concentration (Doc),-1.00
+Numeral concentration (Sent Avg),-0.023
+Numeral concentration (Sent SD),0.27
+Numeral concentration (Sent Max),1.00
+Numeral concentration (Sent Min),-1.00
+Particle concentration (Doc),0.18
+Particle concentration (Sent Avg),-0.070
+Particle concentration (Sent SD),0.55
+Particle concentration (Sent Max),1.00
+Particle concentration (Sent Min),-1.00
+Pronoun concentration (Doc),0.077
+Pronoun concentration (Sent Avg),-0.31
+Pronoun concentration (Sent SD),0.53
+Pronoun concentration (Sent Max),1.00
+Pronoun concentration (Sent Min),-1.00
+Grammatical item concentration (Doc),-0.018
+Grammatical item concentration (Sent Avg),-0.099
+Grammatical item concentration (Sent SD),0.36
+Grammatical item concentration (Sent Max),0.50
+Grammatical item concentration (Sent Min),-1.00
+Verb concentration (Doc),-0.080
+Verb concentration (Sent Avg),-0.26
+Verb concentration (Sent SD),0.57
+Verb concentration (Sent Max),1.00
+Verb concentration (Sent Min),-1.00
+Personal pronoun concentration (Doc),0.024
+Personal pronoun concentration (Sent Avg),-0.37
+Personal pronoun concentration (Sent SD),0.53
+Personal pronoun concentration (Sent Max),1.00
+Personal pronoun concentration (Sent Min),-1.00
+First person pronoun concentration (Doc),0.19
+First person pronoun concentration (Sent Avg),-0.14
+First person pronoun concentration (Sent SD),0.69
+First person pronoun concentration (Sent Max),1.00
+First person pronoun concentration (Sent Min),-1.00
+Second person pronoun concentration (Doc),0.00
+Second person pronoun concentration (Sent Avg),0.0
+Second person pronoun concentration (Sent SD),0.0
+Second person pronoun concentration (Sent Max),0.00
+Second person pronoun concentration (Sent Min),0.00
+Third person pronoun concentration (Doc),-0.20
+Third person pronoun concentration (Sent Avg),-0.30
+Third person pronoun concentration (Sent SD),0.56
+Third person pronoun concentration (Sent Max),1.00
+Third person pronoun concentration (Sent Min),-1.00
+Interrogative concentration (Doc),0.43
+Interrogative concentration (Sent Avg),-0.023
+Interrogative concentration (Sent SD),0.41
+Interrogative concentration (Sent Max),1.00
+Interrogative concentration (Sent Min),-1.00
+Demonstrative concentration (Doc),0.43
+Demonstrative concentration (Sent Avg),-0.047
+Demonstrative concentration (Sent SD),0.38
+Demonstrative concentration (Sent Max),1.00
+Demonstrative concentration (Sent Min),-1.00
+Singular word concentration (Doc),0.13
+Singular word concentration (Sent Avg),0.10
+Singular word concentration (Sent SD),0.58
+Singular word concentration (Sent Max),1.00
+Singular word concentration (Sent Min),-1.00
+Plural word concentration (Doc),-0.25
+Plural word concentration (Sent Avg),-0.27
+Plural word concentration (Sent SD),0.75
+Plural word concentration (Sent Max),1.00
+Plural word concentration (Sent Min),-1.00
+Indefinite word concentration (Doc),-0.33
+Indefinite word concentration (Sent Avg),-0.085
+Indefinite word concentration (Sent SD),0.43
+Indefinite word concentration (Sent Max),1.00
+Indefinite word concentration (Sent Min),-1.00
+Definite word concentration (Doc),-0.12
+Definite word concentration (Sent Avg),0.0
+Definite word concentration (Sent SD),0.49
+Definite word concentration (Sent Max),1.00
+Definite word concentration (Sent Min),-1.00
+Finite verb concentration (Doc),-0.077
+Finite verb concentration (Sent Avg),-0.37
+Finite verb concentration (Sent SD),0.55
+Finite verb concentration (Sent Max),1.00
+Finite verb concentration (Sent Min),-1.00
+Infinitive verb concentration (Doc),0.0
+Infinitive verb concentration (Sent Avg),0.12
+Infinitive verb concentration (Sent SD),0.59
+Infinitive verb concentration (Sent Max),1.00
+Infinitive verb concentration (Sent Min),-1.00
+Verbal adjective concentration (Doc),-0.14
+Verbal adjective concentration (Sent Avg),-0.023
+Verbal adjective concentration (Sent SD),0.41
+Verbal adjective concentration (Sent Max),1.00
+Verbal adjective concentration (Sent Min),-1.00
+Past tense concentration (Doc),-0.015
+Past tense concentration (Sent Avg),-0.50
+Past tense concentration (Sent SD),0.56
+Past tense concentration (Sent Max),1.00
+Past tense concentration (Sent Min),-1.00
+Present tense concentration (Doc),-0.20
+Present tense concentration (Sent Avg),0.023
+Present tense concentration (Sent SD),0.34
+Present tense concentration (Sent Max),1.00
+Present tense concentration (Sent Min),-1.00
+Passive voice concentration (Doc),-1.00
+Passive voice concentration (Sent Avg),-0.023
+Passive voice concentration (Sent SD),0.15
+Passive voice concentration (Sent Max),0.00
+Passive voice concentration (Sent Min),-1.00
+Frequent word concentration (Doc),-0.014
+Frequent word concentration (Sent Avg),-0.11
+Frequent word concentration (Sent SD),0.33
+Frequent word concentration (Sent Max),0.50
+Frequent word concentration (Sent Min),-1.00
+Infrequent word concentration (Doc),0.0
+Infrequent word concentration (Sent Avg),0.0
+Infrequent word concentration (Sent SD),0.69
+Infrequent word concentration (Sent Max),1.00
+Infrequent word concentration (Sent Min),-1.00
+Unknown word concentration (Doc),-0.20
+Unknown word concentration (Sent Avg),0.0
+Unknown word concentration (Sent SD),0.31
+Unknown word concentration (Sent Max),1.00
+Unknown word concentration (Sent Min),-1.00
+Hapax legomena avg position (Doc),0.52
+Hapax legomena avg position (Sent Avg),0.50
+Hapax legomena avg position (Sent SD),0.028
+Hapax legomena avg position (Sent Max),0.54
+Hapax legomena avg position (Sent Min),0.41
+Adjective avg position (Doc),0.50
+Adjective avg position (Sent Avg),0.23
+Adjective avg position (Sent SD),0.33
+Adjective avg position (Sent Max),1.00
+Adjective avg position (Sent Min),0.00
+Adverb avg position (Doc),0.48
+Adverb avg position (Sent Avg),0.21
+Adverb avg position (Sent SD),0.29
+Adverb avg position (Sent Max),0.94
+Adverb avg position (Sent Min),0.00
+Interjection avg position (Doc),0.49
+Interjection avg position (Sent Avg),0.0
+Interjection avg position (Sent SD),0.0
+Interjection avg position (Sent Max),0.00
+Interjection avg position (Sent Min),0.00
+Lexical verb avg position (Doc),0.51
+Lexical verb avg position (Sent Avg),0.38
+Lexical verb avg position (Sent SD),0.20
+Lexical verb avg position (Sent Max),0.75
+Lexical verb avg position (Sent Min),0.00
+Noun avg position (Doc),0.52
+Noun avg position (Sent Avg),0.52
+Noun avg position (Sent SD),0.30
+Noun avg position (Sent Max),1.00
+Noun avg position (Sent Min),0.00
+Proper noun avg position (Doc),0.26
+Proper noun avg position (Sent Avg),0.055
+Proper noun avg position (Sent SD),0.21
+Proper noun avg position (Sent Max),1.00
+Proper noun avg position (Sent Min),0.0
+Lexical item avg position (Doc),0.50
+Lexical item avg position (Sent Avg),0.55
+Lexical item avg position (Sent SD),0.13
+Lexical item avg position (Sent Max),1.00
+Lexical item avg position (Sent Min),0.36
+Adposition avg position (Doc),0.52
+Adposition avg position (Sent Avg),0.38
+Adposition avg position (Sent SD),0.32
+Adposition avg position (Sent Max),0.91
+Adposition avg position (Sent Min),0.00
+Auxiliary avg position (Doc),0.41
+Auxiliary avg position (Sent Avg),0.31
+Auxiliary avg position (Sent SD),0.34
+Auxiliary avg position (Sent Max),1.00
+Auxiliary avg position (Sent Min),0.00
+Conjunction avg position (Doc),0.50
+Conjunction avg position (Sent Avg),0.34
+Conjunction avg position (Sent SD),0.31
+Conjunction avg position (Sent Max),0.80
+Conjunction avg position (Sent Min),0.00
+Determiner avg position (Doc),0.46
+Determiner avg position (Sent Avg),0.33
+Determiner avg position (Sent SD),0.30
+Determiner avg position (Sent Max),0.89
+Determiner avg position (Sent Min),0.00
+Numeral avg position (Doc),0.14
+Numeral avg position (Sent Avg),0.021
+Numeral avg position (Sent SD),0.12
+Numeral avg position (Sent Max),0.79
+Numeral avg position (Sent Min),0.00
+Particle avg position (Doc),0.53
+Particle avg position (Sent Avg),0.17
+Particle avg position (Sent SD),0.26
+Particle avg position (Sent Max),0.87
+Particle avg position (Sent Min),0.00
+Pronoun avg position (Doc),0.53
+Pronoun avg position (Sent Avg),0.32
+Pronoun avg position (Sent SD),0.22
+Pronoun avg position (Sent Max),0.88
+Pronoun avg position (Sent Min),0.00
+Grammatical item avg position (Doc),0.50
+Grammatical item avg position (Sent Avg),0.45
+Grammatical item avg position (Sent SD),0.10
+Grammatical item avg position (Sent Max),0.64
+Grammatical item avg position (Sent Min),0.25
+Verb avg position (Doc),0.49
+Verb avg position (Sent Avg),0.44
+Verb avg position (Sent SD),0.15
+Verb avg position (Sent Max),0.75
+Verb avg position (Sent Min),0.19
+Personal pronoun avg position (Doc),0.51
+Personal pronoun avg position (Sent Avg),0.28
+Personal pronoun avg position (Sent SD),0.22
+Personal pronoun avg position (Sent Max),0.88
+Personal pronoun avg position (Sent Min),0.00
+First person pronoun avg position (Doc),0.58
+First person pronoun avg position (Sent Avg),0.26
+First person pronoun avg position (Sent SD),0.32
+First person pronoun avg position (Sent Max),1.00
+First person pronoun avg position (Sent Min),0.00
+Second person pronoun avg position (Doc),0.00
+Second person pronoun avg position (Sent Avg),0.0
+Second person pronoun avg position (Sent SD),0.0
+Second person pronoun avg position (Sent Max),0.00
+Second person pronoun avg position (Sent Min),0.00
+Third person pronoun avg position (Doc),0.42
+Third person pronoun avg position (Sent Avg),0.16
+Third person pronoun avg position (Sent SD),0.24
+Third person pronoun avg position (Sent Max),1.00
+Third person pronoun avg position (Sent Min),0.00
+Interrogative avg position (Doc),0.67
+Interrogative avg position (Sent Avg),0.071
+Interrogative avg position (Sent SD),0.21
+Interrogative avg position (Sent Max),0.90
+Interrogative avg position (Sent Min),0.00
+Demonstrative avg position (Doc),0.58
+Demonstrative avg position (Sent Avg),0.065
+Demonstrative avg position (Sent SD),0.21
+Demonstrative avg position (Sent Max),1.00
+Demonstrative avg position (Sent Min),0.00
+Singular word avg position (Doc),0.53
+Singular word avg position (Sent Avg),0.52
+Singular word avg position (Sent SD),0.24
+Singular word avg position (Sent Max),1.00
+Singular word avg position (Sent Min),0.00
+Plural word avg position (Doc),0.44
+Plural word avg position (Sent Avg),0.31
+Plural word avg position (Sent SD),0.31
+Plural word avg position (Sent Max),1.00
+Plural word avg position (Sent Min),0.00
+Indefinite word avg position (Doc),0.40
+Indefinite word avg position (Sent Avg),0.17
+Indefinite word avg position (Sent SD),0.26
+Indefinite word avg position (Sent Max),0.89
+Indefinite word avg position (Sent Min),0.00
+Definite word avg position (Doc),0.49
+Definite word avg position (Sent Avg),0.15
+Definite word avg position (Sent SD),0.28
+Definite word avg position (Sent Max),0.94
+Definite word avg position (Sent Min),0.00
+Finite verb avg position (Doc),0.49
+Finite verb avg position (Sent Avg),0.39
+Finite verb avg position (Sent SD),0.16
+Finite verb avg position (Sent Max),0.75
+Finite verb avg position (Sent Min),0.091
+Infinitive verb avg position (Doc),0.50
+Infinitive verb avg position (Sent Avg),0.28
+Infinitive verb avg position (Sent SD),0.33
+Infinitive verb avg position (Sent Max),0.93
+Infinitive verb avg position (Sent Min),0.00
+Verbal adjective avg position (Doc),0.44
+Verbal adjective avg position (Sent Avg),0.089
+Verbal adjective avg position (Sent SD),0.26
+Verbal adjective avg position (Sent Max),1.00
+Verbal adjective avg position (Sent Min),0.00
+Past tense avg position (Doc),0.50
+Past tense avg position (Sent Avg),0.32
+Past tense avg position (Sent SD),0.19
+Past tense avg position (Sent Max),0.75
+Past tense avg position (Sent Min),0.00
+Present tense avg position (Doc),0.50
+Present tense avg position (Sent Avg),0.079
+Present tense avg position (Sent SD),0.25
+Present tense avg position (Sent Max),1.00
+Present tense avg position (Sent Min),0.00
+Passive voice avg position (Doc),0.11
+Passive voice avg position (Sent Avg),0.0058
+Passive voice avg position (Sent SD),0.038
+Passive voice avg position (Sent Max),0.25
+Passive voice avg position (Sent Min),0.00
+Frequent word avg position (Doc),0.50
+Frequent word avg position (Sent Avg),0.46
+Frequent word avg position (Sent SD),0.089
+Frequent word avg position (Sent Max),0.59
+Frequent word avg position (Sent Min),0.25
+Infrequent word avg position (Doc),0.51
+Infrequent word avg position (Sent Avg),0.27
+Infrequent word avg position (Sent SD),0.34
+Infrequent word avg position (Sent Max),1.00
+Infrequent word avg position (Sent Min),0.00
+Unknown word avg position (Doc),0.56
+Unknown word avg position (Sent Avg),0.063
+Unknown word avg position (Sent SD),0.20
+Unknown word avg position (Sent Max),1.00
+Unknown word avg position (Sent Min),0.00
+Hapax legomena position SD (Doc),0.28
+Hapax legomena position SD (Sent Avg),0.35
+Hapax legomena position SD (Sent SD),0.045
+Hapax legomena position SD (Sent Max),0.50
+Hapax legomena position SD (Sent Min),0.29
+Adjective position SD (Doc),0.30
+Adjective position SD (Sent Avg),0.034
+Adjective position SD (Sent SD),0.11
+Adjective position SD (Sent Max),0.47
+Adjective position SD (Sent Min),0.00
+Adverb position SD (Doc),0.32
+Adverb position SD (Sent Avg),0.027
+Adverb position SD (Sent SD),0.10
+Adverb position SD (Sent Max),0.49
+Adverb position SD (Sent Min),0.00
+Interjection position SD (Doc),0.12
+Interjection position SD (Sent Avg),0.0
+Interjection position SD (Sent SD),0.0
+Interjection position SD (Sent Max),0.00
+Interjection position SD (Sent Min),0.00
+Lexical verb position SD (Doc),0.28
+Lexical verb position SD (Sent Avg),0.23
+Lexical verb position SD (Sent SD),0.21
+Lexical verb position SD (Sent Max),0.66
+Lexical verb position SD (Sent Min),0.00
+Noun position SD (Doc),0.30
+Noun position SD (Sent Avg),0.16
+Noun position SD (Sent SD),0.18
+Noun position SD (Sent Max),0.57
+Noun position SD (Sent Min),0.00
+Proper noun position SD (Doc),0.20
+Proper noun position SD (Sent Avg),0.0086
+Proper noun position SD (Sent SD),0.045
+Proper noun position SD (Sent Max),0.28
+Proper noun position SD (Sent Min),0.00
+Lexical item position SD (Doc),0.29
+Lexical item position SD (Sent Avg),0.33
+Lexical item position SD (Sent SD),0.092
+Lexical item position SD (Sent Max),0.47
+Lexical item position SD (Sent Min),0.00
+Adposition position SD (Doc),0.29
+Adposition position SD (Sent Avg),0.10
+Adposition position SD (Sent SD),0.17
+Adposition position SD (Sent Max),0.53
+Adposition position SD (Sent Min),0.00
+Auxiliary position SD (Doc),0.27
+Auxiliary position SD (Sent Avg),0.047
+Auxiliary position SD (Sent SD),0.15
+Auxiliary position SD (Sent Max),0.59
+Auxiliary position SD (Sent Min),0.00
+Conjunction position SD (Doc),0.26
+Conjunction position SD (Sent Avg),0.038
+Conjunction position SD (Sent SD),0.099
+Conjunction position SD (Sent Max),0.38
+Conjunction position SD (Sent Min),0.00
+Determiner position SD (Doc),0.27
+Determiner position SD (Sent Avg),0.089
+Determiner position SD (Sent SD),0.17
+Determiner position SD (Sent Max),0.64
+Determiner position SD (Sent Min),0.00
+Numeral position SD (Doc),0.13
+Numeral position SD (Sent Avg),0.0
+Numeral position SD (Sent SD),0.0
+Numeral position SD (Sent Max),0.00
+Numeral position SD (Sent Min),0.00
+Particle position SD (Doc),0.35
+Particle position SD (Sent Avg),0.0095
+Particle position SD (Sent SD),0.052
+Particle position SD (Sent Max),0.33
+Particle position SD (Sent Min),0.00
+Pronoun position SD (Doc),0.29
+Pronoun position SD (Sent Avg),0.30
+Pronoun position SD (Sent SD),0.25
+Pronoun position SD (Sent Max),0.71
+Pronoun position SD (Sent Min),0.00
+Grammatical item position SD (Doc),0.29
+Grammatical item position SD (Sent Avg),0.35
+Grammatical item position SD (Sent SD),0.064
+Grammatical item position SD (Sent Max),0.53
+Grammatical item position SD (Sent Min),0.14
+Verb position SD (Doc),0.28
+Verb position SD (Sent Avg),0.26
+Verb position SD (Sent SD),0.19
+Verb position SD (Sent Max),0.66
+Verb position SD (Sent Min),0.00
+Personal pronoun position SD (Doc),0.29
+Personal pronoun position SD (Sent Avg),0.28
+Personal pronoun position SD (Sent SD),0.26
+Personal pronoun position SD (Sent Max),0.71
+Personal pronoun position SD (Sent Min),0.00
+First person pronoun position SD (Doc),0.26
+First person pronoun position SD (Sent Avg),0.096
+First person pronoun position SD (Sent SD),0.19
+First person pronoun position SD (Sent Max),0.71
+First person pronoun position SD (Sent Min),0.00
+Second person pronoun position SD (Doc),0.00
+Second person pronoun position SD (Sent Avg),0.0
+Second person pronoun position SD (Sent SD),0.0
+Second person pronoun position SD (Sent Max),0.00
+Second person pronoun position SD (Sent Min),0.00
+Third person pronoun position SD (Doc),0.31
+Third person pronoun position SD (Sent Avg),0.10
+Third person pronoun position SD (Sent SD),0.21
+Third person pronoun position SD (Sent Max),0.71
+Third person pronoun position SD (Sent Min),0.00
+Interrogative position SD (Doc),0.29
+Interrogative position SD (Sent Avg),0.0
+Interrogative position SD (Sent SD),0.0
+Interrogative position SD (Sent Max),0.00
+Interrogative position SD (Sent Min),0.00
+Demonstrative position SD (Doc),0.22
+Demonstrative position SD (Sent Avg),0.0064
+Demonstrative position SD (Sent SD),0.042
+Demonstrative position SD (Sent Max),0.28
+Demonstrative position SD (Sent Min),0.00
+Singular word position SD (Doc),0.29
+Singular word position SD (Sent Avg),0.28
+Singular word position SD (Sent SD),0.16
+Singular word position SD (Sent Max),0.54
+Singular word position SD (Sent Min),0.00
+Plural word position SD (Doc),0.31
+Plural word position SD (Sent Avg),0.11
+Plural word position SD (Sent SD),0.16
+Plural word position SD (Sent Max),0.55
+Plural word position SD (Sent Min),0.00
+Indefinite word position SD (Doc),0.25
+Indefinite word position SD (Sent Avg),0.030
+Indefinite word position SD (Sent SD),0.091
+Indefinite word position SD (Sent Max),0.42
+Indefinite word position SD (Sent Min),0.00
+Definite word position SD (Doc),0.32
+Definite word position SD (Sent Avg),0.022
+Definite word position SD (Sent SD),0.10
+Definite word position SD (Sent Max),0.64
+Definite word position SD (Sent Min),0.00
+Finite verb position SD (Doc),0.29
+Finite verb position SD (Sent Avg),0.26
+Finite verb position SD (Sent SD),0.23
+Finite verb position SD (Sent Max),0.66
+Finite verb position SD (Sent Min),0.00
+Infinitive verb position SD (Doc),0.27
+Infinitive verb position SD (Sent Avg),0.040
+Infinitive verb position SD (Sent SD),0.12
+Infinitive verb position SD (Sent Max),0.53
+Infinitive verb position SD (Sent Min),0.00
+Verbal adjective position SD (Doc),0.22
+Verbal adjective position SD (Sent Avg),0.0
+Verbal adjective position SD (Sent SD),0.0
+Verbal adjective position SD (Sent Max),0.00
+Verbal adjective position SD (Sent Min),0.00
+Past tense position SD (Doc),0.30
+Past tense position SD (Sent Avg),0.18
+Past tense position SD (Sent SD),0.22
+Past tense position SD (Sent Max),0.66
+Past tense position SD (Sent Min),0.00
+Present tense position SD (Doc),0.19
+Present tense position SD (Sent Avg),0.0
+Present tense position SD (Sent SD),0.0
+Present tense position SD (Sent Max),0.00
+Present tense position SD (Sent Min),0.00
+Passive voice position SD (Doc),0.00
+Passive voice position SD (Sent Avg),0.0
+Passive voice position SD (Sent SD),0.0
+Passive voice position SD (Sent Max),0.00
+Passive voice position SD (Sent Min),0.00
+Frequent word position SD (Doc),0.28
+Frequent word position SD (Sent Avg),0.34
+Frequent word position SD (Sent SD),0.062
+Frequent word position SD (Sent Max),0.53
+Frequent word position SD (Sent Min),0.14
+Infrequent word position SD (Doc),0.31
+Infrequent word position SD (Sent Avg),0.018
+Infrequent word position SD (Sent SD),0.065
+Infrequent word position SD (Sent Max),0.31
+Infrequent word position SD (Sent Min),0.00
+Unknown word position SD (Doc),0.36
+Unknown word position SD (Sent Avg),0.0
+Unknown word position SD (Sent SD),0.0
+Unknown word position SD (Sent Max),0.00
+Unknown word position SD (Sent Min),0.00
+Word overlap count (Par-Doc Avg),66.40
+Word overlap count (Par-Doc SD),21.20
+Word overlap count (Par-Doc Max),91.00
+Word overlap count (Par-Doc Min),40.00
+Word overlap count (Sent-Doc Avg),8.95
+Word overlap count (Sent-Doc SD),4.03
+Word overlap count (Sent-Doc Max),18.00
+Word overlap count (Sent-Doc Min),2.00
+Word overlap count (Sent-Par Avg),6.05
+Word overlap count (Sent-Par SD),3.41
+Word overlap count (Sent-Par Max),16.00
+Word overlap count (Sent-Par Min),1.00
+Word overlap count (Sent-Sent Avg),2.05
+Word overlap count (Sent-Sent SD),1.83
+Word overlap count (Sent-Sent Max),9.00
+Word overlap count (Sent-Sent Min),0.00
+Lemma overlap count (Par-Doc Avg),71.20
+Lemma overlap count (Par-Doc SD),22.88
+Lemma overlap count (Par-Doc Max),98.00
+Lemma overlap count (Par-Doc Min),43.00
+Lemma overlap count (Sent-Doc Avg),9.53
+Lemma overlap count (Sent-Doc SD),4.11
+Lemma overlap count (Sent-Doc Max),18.00
+Lemma overlap count (Sent-Doc Min),2.00
+Lemma overlap count (Sent-Par Avg),6.51
+Lemma overlap count (Sent-Par SD),3.42
+Lemma overlap count (Sent-Par Max),16.00
+Lemma overlap count (Sent-Par Min),1.00
+Lemma overlap count (Sent-Sent Avg),2.42
+Lemma overlap count (Sent-Sent SD),1.81
+Lemma overlap count (Sent-Sent Max),9.00
+Lemma overlap count (Sent-Sent Min),0.00
+PoS overlap count (Par-Doc Avg),98.80
+PoS overlap count (Par-Doc SD),35.53
+PoS overlap count (Par-Doc Max),139.00
+PoS overlap count (Par-Doc Min),53.00
+PoS overlap count (Sent-Doc Avg),11.53
+PoS overlap count (Sent-Doc SD),5.31
+PoS overlap count (Sent-Doc Max),24.00
+PoS overlap count (Sent-Doc Min),3.00
+PoS overlap count (Sent-Par Avg),11.30
+PoS overlap count (Sent-Par SD),5.21
+PoS overlap count (Sent-Par Max),24.00
+PoS overlap count (Sent-Par Min),3.00
+PoS overlap count (Sent-Sent Avg),7.03
+PoS overlap count (Sent-Sent SD),3.54
+PoS overlap count (Sent-Sent Max),15.00
+PoS overlap count (Sent-Sent Min),1.00
+Feature overlap count (Par-Doc Avg),186.20
+Feature overlap count (Par-Doc SD),60.21
+Feature overlap count (Par-Doc Max),243.00
+Feature overlap count (Par-Doc Min),109.00
+Feature overlap count (Sent-Doc Avg),21.77
+Feature overlap count (Sent-Doc SD),9.52
+Feature overlap count (Sent-Doc Max),44.00
+Feature overlap count (Sent-Doc Min),10.00
+Feature overlap count (Sent-Par Avg),21.26
+Feature overlap count (Sent-Par SD),9.34
+Feature overlap count (Sent-Par Max),44.00
+Feature overlap count (Sent-Par Min),9.00
+Feature overlap count (Sent-Sent Avg),13.47
+Feature overlap count (Sent-Sent SD),6.11
+Feature overlap count (Sent-Sent Max),31.00
+Feature overlap count (Sent-Sent Min),5.00
+Word overlap ratio (Par-Doc Avg),0.68
+Word overlap ratio (Par-Doc SD),0.043
+Word overlap ratio (Par-Doc Max),0.75
+Word overlap ratio (Par-Doc Min),0.65
+Word overlap ratio (Sent-Doc Avg),0.78
+Word overlap ratio (Sent-Doc SD),0.11
+Word overlap ratio (Sent-Doc Max),1.00
+Word overlap ratio (Sent-Doc Min),0.56
+Word overlap ratio (Sent-Par Avg),0.52
+Word overlap ratio (Sent-Par SD),0.18
+Word overlap ratio (Sent-Par Max),1.00
+Word overlap ratio (Sent-Par Min),0.17
+Word overlap ratio (Sent-Sent Avg),0.20
+Word overlap ratio (Sent-Sent SD),0.18
+Word overlap ratio (Sent-Sent Max),1.00
+Word overlap ratio (Sent-Sent Min),0.0
+Lemma overlap ratio (Par-Doc Avg),0.73
+Lemma overlap ratio (Par-Doc SD),0.047
+Lemma overlap ratio (Par-Doc Max),0.81
+Lemma overlap ratio (Par-Doc Min),0.69
+Lemma overlap ratio (Sent-Doc Avg),0.84
+Lemma overlap ratio (Sent-Doc SD),0.11
+Lemma overlap ratio (Sent-Doc Max),1.00
+Lemma overlap ratio (Sent-Doc Min),0.60
+Lemma overlap ratio (Sent-Par Avg),0.57
+Lemma overlap ratio (Sent-Par SD),0.18
+Lemma overlap ratio (Sent-Par Max),1.00
+Lemma overlap ratio (Sent-Par Min),0.20
+Lemma overlap ratio (Sent-Sent Avg),0.26
+Lemma overlap ratio (Sent-Sent SD),0.20
+Lemma overlap ratio (Sent-Sent Max),1.00
+Lemma overlap ratio (Sent-Sent Min),0.0
+PoS overlap ratio (Par-Doc Avg),1.00
+PoS overlap ratio (Par-Doc SD),0.0064
+PoS overlap ratio (Par-Doc Max),1.00
+PoS overlap ratio (Par-Doc Min),0.99
+PoS overlap ratio (Sent-Doc Avg),1.00
+PoS overlap ratio (Sent-Doc SD),0.0
+PoS overlap ratio (Sent-Doc Max),1.00
+PoS overlap ratio (Sent-Doc Min),1.00
+PoS overlap ratio (Sent-Par Avg),0.98
+PoS overlap ratio (Sent-Par SD),0.057
+PoS overlap ratio (Sent-Par Max),1.00
+PoS overlap ratio (Sent-Par Min),0.67
+PoS overlap ratio (Sent-Sent Avg),0.75
+PoS overlap ratio (Sent-Sent SD),0.19
+PoS overlap ratio (Sent-Sent Max),1.00
+PoS overlap ratio (Sent-Sent Min),0.33
+Feature overlap ratio (Par-Doc Avg),0.99
+Feature overlap ratio (Par-Doc SD),0.0089
+Feature overlap ratio (Par-Doc Max),1.00
+Feature overlap ratio (Par-Doc Min),0.98
+Feature overlap ratio (Sent-Doc Avg),1.00
+Feature overlap ratio (Sent-Doc SD),0.0078
+Feature overlap ratio (Sent-Doc Max),1.00
+Feature overlap ratio (Sent-Doc Min),0.96
+Feature overlap ratio (Sent-Par Avg),0.98
+Feature overlap ratio (Sent-Par SD),0.033
+Feature overlap ratio (Sent-Par Max),1.00
+Feature overlap ratio (Sent-Par Min),0.89
+Feature overlap ratio (Sent-Sent Avg),0.75
+Feature overlap ratio (Sent-Sent SD),0.13
+Feature overlap ratio (Sent-Sent Max),1.00
+Feature overlap ratio (Sent-Sent Min),0.41
+Levenshtein character dist. (Par-Doc Avg),0.81
+Levenshtein character dist. (Par-Doc SD),0.058
+Levenshtein character dist. (Par-Doc Max),0.89
+Levenshtein character dist. (Par-Doc Min),0.75
+Levenshtein character dist. (Sent-Doc Avg),0.98
+Levenshtein character dist. (Sent-Doc SD),0.011
+Levenshtein character dist. (Sent-Doc Max),0.99
+Levenshtein character dist. (Sent-Doc Min),0.95
+Levenshtein character dist. (Sent-Par Avg),0.89
+Levenshtein character dist. (Sent-Par SD),0.051
+Levenshtein character dist. (Sent-Par Max),0.98
+Levenshtein character dist. (Sent-Par Min),0.72
+Levenshtein character dist. (Sent-Sent Avg),0.72
+Levenshtein character dist. (Sent-Sent SD),0.056
+Levenshtein character dist. (Sent-Sent Max),0.84
+Levenshtein character dist. (Sent-Sent Min),0.58
+Levenshtein word dist. (Par-Doc Avg),0.92
+Levenshtein word dist. (Par-Doc SD),0.024
+Levenshtein word dist. (Par-Doc Max),0.95
+Levenshtein word dist. (Par-Doc Min),0.90
+Levenshtein word dist. (Sent-Doc Avg),0.99
+Levenshtein word dist. (Sent-Doc SD),0.0059
+Levenshtein word dist. (Sent-Doc Max),1.00
+Levenshtein word dist. (Sent-Doc Min),0.97
+Levenshtein word dist. (Sent-Par Avg),0.95
+Levenshtein word dist. (Sent-Par SD),0.022
+Levenshtein word dist. (Sent-Par Max),0.99
+Levenshtein word dist. (Sent-Par Min),0.89
+Levenshtein word dist. (Sent-Sent Avg),0.94
+Levenshtein word dist. (Sent-Sent SD),0.059
+Levenshtein word dist. (Sent-Sent Max),1.00
+Levenshtein word dist. (Sent-Sent Min),0.80
+Levenshtein lemma dist. (Par-Doc Avg),0.91
+Levenshtein lemma dist. (Par-Doc SD),0.026
+Levenshtein lemma dist. (Par-Doc Max),0.95
+Levenshtein lemma dist. (Par-Doc Min),0.89
+Levenshtein lemma dist. (Sent-Doc Avg),0.99
+Levenshtein lemma dist. (Sent-Doc SD),0.0060
+Levenshtein lemma dist. (Sent-Doc Max),1.00
+Levenshtein lemma dist. (Sent-Doc Min),0.97
+Levenshtein lemma dist. (Sent-Par Avg),0.95
+Levenshtein lemma dist. (Sent-Par SD),0.023
+Levenshtein lemma dist. (Sent-Par Max),0.99
+Levenshtein lemma dist. (Sent-Par Min),0.89
+Levenshtein lemma dist. (Sent-Sent Avg),0.92
+Levenshtein lemma dist. (Sent-Sent SD),0.076
+Levenshtein lemma dist. (Sent-Sent Max),1.00
+Levenshtein lemma dist. (Sent-Sent Min),0.67
+Levenshtein PoS dist. (Par-Doc Avg),0.79
+Levenshtein PoS dist. (Par-Doc SD),0.073
+Levenshtein PoS dist. (Par-Doc Max),0.88
+Levenshtein PoS dist. (Par-Doc Min),0.71
+Levenshtein PoS dist. (Sent-Doc Avg),0.98
+Levenshtein PoS dist. (Sent-Doc SD),0.011
+Levenshtein PoS dist. (Sent-Doc Max),0.99
+Levenshtein PoS dist. (Sent-Doc Min),0.95
+Levenshtein PoS dist. (Sent-Par Avg),0.88
+Levenshtein PoS dist. (Sent-Par SD),0.062
+Levenshtein PoS dist. (Sent-Par Max),0.98
+Levenshtein PoS dist. (Sent-Par Min),0.67
+Levenshtein PoS dist. (Sent-Sent Avg),0.70
+Levenshtein PoS dist. (Sent-Sent SD),0.12
+Levenshtein PoS dist. (Sent-Sent Max),0.92
+Levenshtein PoS dist. (Sent-Sent Min),0.44
+Cosine dist. (Par-Doc Avg),0.94
+Cosine dist. (Par-Doc SD),0.041
+Cosine dist. (Par-Doc Max),0.96
+Cosine dist. (Par-Doc Min),0.86
+Cosine dist. (Sent-Doc Avg),0.74
+Cosine dist. (Sent-Doc SD),0.11
+Cosine dist. (Sent-Doc Max),0.93
+Cosine dist. (Sent-Doc Min),0.41
+Cosine dist. (Sent-Par Avg),0.73
+Cosine dist. (Sent-Par SD),0.11
+Cosine dist. (Sent-Par Max),0.92
+Cosine dist. (Sent-Par Min),0.42
+Cosine dist. (Sent-Sent Avg),0.62
+Cosine dist. (Sent-Sent SD),0.14
+Cosine dist. (Sent-Sent Max),1.00
+Cosine dist. (Sent-Sent Min),0.23
